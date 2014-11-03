@@ -2,4 +2,4 @@
 
 This is the pinteresting sample application for [*One MOnth Rails*] [http://blocklight.com]
 
-by [JJ Tang]
+by [JJ Tangg]
